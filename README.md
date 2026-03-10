@@ -166,8 +166,8 @@ SheetLock is designed to work without an internet connection. Creating workbooks
 
 ## Links
 
-- [Privacy Policy](https://sheetlock.github.io/privacy-policy.html)
-- [Terms & Conditions](https://sheetlock.github.io/terms.html)
+- [Privacy Policy](https://nchitimilla.github.io/sheetlock.github.com/privacy-policy.html)
+- [Terms & Conditions](https://nchitimilla.github.io/sheetlock.github.com/terms.html)
 - [Contact Support](mailto:nagaraju.chitimilla@gmail.com)
 
 ---
